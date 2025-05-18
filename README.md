@@ -31,7 +31,9 @@ PROFit is a smart yoga assistant powered by AI that helps users practice yoga mo
 
 | Home Page | Live Detection | Upload Page |
 |----------|----------------|-------------|
-| ![Home](screenshots/home.png) | ![Live](screenshots/live.png) | ![Upload](screenshots/upload.png) |
+| ![Home](![Screenshot 2025-05-18 140109](https://github.com/user-attachments/assets/8fdce4be-10e8-4606-905b-c6f64c44b8fd)
+) | ![Live](![Screenshot 2025-05-18 140128](https://github.com/user-attachments/assets/17cf37c2-1f50-4473-93a9-006bd866da7f) | ![Upload](![Uploading Screenshot 2025-05-18 140151.png…]()
+|
 
 ---
 
