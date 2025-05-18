@@ -1,12 +1,43 @@
-# React + Vite
+# PROFit - AI Yoga Pose Detection App 🧘‍♂️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PROFit is a smart yoga assistant powered by AI that helps users practice yoga more effectively by detecting and correcting poses in real time.
 
-Currently, two official plugins are available:
+![PROFit Banner](screenshots/banner.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📸 Live Yoga Pose Detection
+- 📤 Upload Videos for Posture Analysis
+- 📊 Real-time Feedback on Poses
+- 📱 Responsive Design for All Devices
+- 🔒 Secure Authentication System
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express
+- **AI Model:** Mediapipe / PoseNet (custom-trained)
+- **Video Communication:** Agora SDK
+- **Database:** MongoDB
+- **Authentication:** JWT
+
+---
+
+## 📸 Screenshots
+
+| Home Page | Live Detection | Upload Page |
+|----------|----------------|-------------|
+| ![Home](screenshots/home.png) | ![Live](screenshots/live.png) | ![Upload](screenshots/upload.png) |
+
+---
+
+## 🧑‍💻 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/ShravanCarpenter/Profit.git
+   cd Profit
